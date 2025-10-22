@@ -11,7 +11,7 @@ I’m passionate about building **web applications** and learning new technologi
 - 🎓 Recently graduated in **BCA** from **Panjab University**  
 - 💼 Focused on **PHP, Laravel, MySQL, and Web Development**  
 - 📚 Learning more about **backend systems** and **real-time apps**  
-- 🌱 Currently exploring **Laravel WebSocket** and **Job Portal Projects**  
+- 🌱 Currently exploring **Laravel WebSocket** and **Online Booking Portal Projects**  
 
 ---
 
