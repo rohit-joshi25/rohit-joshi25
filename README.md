@@ -35,7 +35,7 @@ A PHP-based online auction system with bidding functionality.
 ## 🌐 Connect with Me
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=flat&logo=github)](https://github.com/rohit-joshi25)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/rohit-joshi-064ba926a/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-ff6600?style=flat&logo=google-chrome)](https://rohitakachiku.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-ff6600?style=flat&logo=google-chrome)](https://rohit-joshi.vercel.app/)
 
 ---
 
